@@ -1,0 +1,152 @@
+{
+  "Aosta": {
+    "nodes": 823,
+    "edges": 1717,
+    "results": {
+      "dijkstra": {
+        "runs": [
+          {
+            "iterations": 170
+          },
+          {
+            "iterations": 490
+          },
+          {
+            "iterations": null,
+            "distance_km": null
+          },
+          {
+            "iterations": 50
+          },
+          {
+            "iterations": 268
+          },
+          {
+            "iterations": 215
+          },
+          {
+            "iterations": 324
+          },
+          {
+            "iterations": 698
+          },
+          {
+            "iterations": 388
+          },
+          {
+            "iterations": 757
+          }
+        ],
+        "average": 373.33
+      },
+      "astar_manhattan": {
+        "runs": [
+          {
+            "iterations": 41
+          },
+          {
+            "iterations": 101
+          },
+          {
+            "iterations": null,
+            "distance_km": null
+          },
+          {
+            "iterations": 10
+          },
+          {
+            "iterations": 52
+          },
+          {
+            "iterations": 134
+          },
+          {
+            "iterations": 122
+          },
+          {
+            "iterations": 384
+          },
+          {
+            "iterations": 83
+          },
+          {
+            "iterations": 535
+          }
+        ],
+        "average": 162.44
+      },
+      "astar_euclidean": {
+        "runs": [
+          {
+            "iterations": 51
+          },
+          {
+            "iterations": 169
+          },
+          {
+            "iterations": null,
+            "distance_km": null
+          },
+          {
+            "iterations": 19
+          },
+          {
+            "iterations": 93
+          },
+          {
+            "iterations": 142
+          },
+          {
+            "iterations": 144
+          },
+          {
+            "iterations": 538
+          },
+          {
+            "iterations": 108
+          },
+          {
+            "iterations": 627
+          }
+        ],
+        "average": 210.11
+      },
+      "astar_haversine": {
+        "runs": [
+          {
+            "iterations": 51
+          },
+          {
+            "iterations": 171
+          },
+          {
+            "iterations": null,
+            "distance_km": null
+          },
+          {
+            "iterations": 19
+          },
+          {
+            "iterations": 93
+          },
+          {
+            "iterations": 142
+          },
+          {
+            "iterations": 144
+          },
+          {
+            "iterations": 539
+          },
+          {
+            "iterations": 108
+          },
+          {
+            "iterations": 628
+          }
+        ],
+        "average": 210.56
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+Loading Aosta...
+Running Dijkstra
+Nodes:  823
+Edges:  1717
+Iterations: 747
+Iterations: 681
+Iterations: 372
+Iterations: 309
+Iterations: 335
+Iterations: 512
+Iterations: 284
+Iterations: 450
+Iterations: 563
+Iterations: 34
+The average step for Aosta is: 428.7
+Loading Torino...
+Running Dijkstra
+Nodes:  76492
+Edges:  166967
+Iterations: 14184
+Iterations: 43327
+Iterations: 19929
+Iterations: 71856
+Iterations: 60615
+Iterations: 652
+Iterations: 41003
+Iterations: 62918
+Iterations: 59109
+Iterations: 53576
+The average step for Turin is: 42716.9
+
+PROBLEMI:
+uscita nan in reconstruc path
+verificare correttezza qeueu di A*
